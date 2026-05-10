@@ -1,4 +1,4 @@
-# Local LLMs & VLMs Integration with Python
+# Local LLMs Integration with Python script
 
 This repository contains practical Python implementations for interacting with locally hosted Large Language Models (LLMs) using **Ollama**. It demonstrates how to utilize both Ollama's native REST API and its OpenAI-compatible endpoints to build entirely offline, privacy-first AI scripts.
 
